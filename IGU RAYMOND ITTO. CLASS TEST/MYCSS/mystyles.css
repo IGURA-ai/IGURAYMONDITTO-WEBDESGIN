@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: o;
+    box-sizing: border-box;
+}
+body{
+    background-color: navy;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.6;
+}
+header {
+    background-color: rgb(19, 19, 66);
+    color: gold;
+    text-align: center;
+    padding: 28px;
+    font-size: 35px;
+}
+header h1{
+    letter-spacing: 5px;
+    font-size: 50px;
+}
+nav{
+    background-color: rgb(76, 76, 166);
+    padding: 20px;
+    text-align: center;
+    word-spacing: 20px;
+    text-decoration: none;
+}
+nav a {
+    text-align: center;
+    color: yellow;
+    font-size: 20px;
+    text-decoration: none;
+}
+nav a :hover 
+main {
+    width: 84%;
+    margin: auto;
+}
+section {
+    padding: 60px 20px;
+    border-bottom: 1px solid white;
+}
+section h2{
+    color: goldenrod;
+    font-size: 45px;
+    word-spacing: 5px;
+}
+section p {
+    color: yellow;
+    font-size: 30px;
+} 
+section ul{
+    color: yellow;
+    font-size: 30px;
+}
+section ol {
+    color: yellow;
+    font-size: 30px;
+}
+table{
+    color: yellow;
+    font-size: 30px;
+}
+section h3{
+    color:yellow ;
+    font-size: 30px;
+}
+
+
+
+
+ 
+
+
+
